@@ -1,3 +1,9 @@
+cbackground (0.0.4) jammy; urgency=medium
+
+  * using gnome setting to set default background, not replace image directly
+
+ -- ChunAn Wu <an.wu@canonical.com>  Wed, 28 Sep 2022 17:55:16 +0800
+
 cbackground (0.0.3) jammy; urgency=medium
 
   * replace default background image
