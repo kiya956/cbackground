@@ -1,0 +1,6 @@
+cbackground (0.0.1) jammy; urgency=medium
+
+  * Initial background package
+  * Adding necessary files
+
+ --  <an.wu@canonical.com>  Wed, 28 Sep 2022 00:44:16 +0000

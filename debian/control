@@ -1,0 +1,11 @@
+Source: cbackground
+Section: misc
+Priority: optional
+Maintainer: ChunAn Wu <an.wu@canonical.com>
+Build-Depends: quilt, debhelper (>= 7)
+Standards-Version: 0.0.1
+
+Package: cbackground
+Architecture: all
+Description:customize background
+    change default background
