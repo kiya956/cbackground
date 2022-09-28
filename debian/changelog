@@ -1,3 +1,10 @@
+cbackground (0.0.2) jammy; urgency=medium
+
+  * Fix postinst typo
+  * Fix background picture path
+
+ -- ChunAn Wu <an.wu@canonical.com>  Wed, 28 Sep 2022 09:44:01 +0800
+
 cbackground (0.0.1) jammy; urgency=medium
 
   * Initial background package
